@@ -1,0 +1,17 @@
+src/main/java/com/OnlineNurseryApplication/OnlineNurseryPlantsApplication.java:49:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/controllers/AuthController.java:47:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/security/JwtAuthenticationFilter.java:56:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/security/JwtAuthenticationFilter.java:59:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/security/JwtAuthenticationFilter.java:62:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/security/JwtAuthenticationFilter.java:65:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/security/JwtAuthenticationFilter.java:69:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/security/JwtAuthenticationFilter.java:73:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/security/JwtAuthenticationFilter.java:74:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/security/JwtAuthenticationFilter.java:79:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/security/JwtAuthenticationFilter.java:92:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/services/AuthenticationServiceImpl.java:65:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/services/AuthenticationServiceImpl.java:65:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/services/AuthenticationServiceImpl.java:87:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/services/AuthenticationServiceImpl.java:90:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/services/AuthenticationServiceImpl.java:90:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/com/OnlineNurseryApplication/services/AuthenticationServiceImpl.java:101:	SystemPrintln:	SystemPrintln: Usage of System.out/err

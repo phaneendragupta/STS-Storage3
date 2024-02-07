@@ -1,0 +1,25 @@
+package com.weather.app.demo.dto;
+
+import java.util.Set;
+
+import com.weather.app.demo.entity.Role;
+import com.weather.app.demo.entity.User;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+//@Entity
+@AllArgsConstructor
+@NoArgsConstructor
+public class UserRegistrationDto {
+
+	private String userName;
+	private String userEmail;
+	private String password;
+	
+	}
